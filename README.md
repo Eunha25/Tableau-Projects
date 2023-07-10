@@ -1,12 +1,16 @@
 # Tableau Dashboard - Data Visualization
 
+|![Dashboard](./AirBnB/image/Dashboard-Tableau.png)|
+| :--: |
+| *Dashboard* |
+
 ## Project Overview
 The goal of these projects is to analyze and visualize data collected from different data sources. The collected data will be transformed into meaningful insights and presented in an interactive and visually appealing manner using Tableau.
 
 ## Data Preparation
 Before visualizing the data in Tableau, it is important to ensure the data is properly prepared and formatted. The following steps were taken to prepare the data for visualization:
 
-1. Data Cleaning: The collected data was reviewed for any inconsistencies or errors and cleaned accordingly.
+1. Data Cleaning: The collected data were reviewed for any inconsistencies or errors and cleaned accordingly.
 2. Data Transformation: If necessary, certain data fields were transformed or modified to facilitate analysis and visualization.
 
 
